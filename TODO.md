@@ -4,7 +4,7 @@ This is checklist of tasks to male a good readme:
 
 ### Making good readme
 - [x] Project title
-  - [ ] Description
+  - [x] Description
   - [ ] Getting Started
     - [ ] Prerequisites
     - [ ] Installing
