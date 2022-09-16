@@ -11,5 +11,5 @@ This is checklist of tasks to make a good readme:
 - [x] Deployment
 - [x] Built with
 - [x] Authors
-- [ ] Licence
+- [x] Licence
 
