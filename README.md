@@ -27,3 +27,4 @@ Add additional notes to deploy this on a live system.
 - **Programmer B** - *Provided README Template* - [ Coral ](https://github.com/CoralRGE)
 
 See also le list of [ contributors ](https://github.com/AlinaDorosh-dev/todo-list/graphs/contributors) who participated in this progect.
+
