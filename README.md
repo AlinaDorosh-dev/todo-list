@@ -1,6 +1,6 @@
 ## **Project Title**
 One Paragraph of the project description.
-You can find some information by visiting the Codespace repository
+You can find some information by visiting the [Codespace](https://github.com/cod3spac3Academy?tab=repositories) repository
 
 ## **Getting Started**
 
@@ -26,5 +26,5 @@ Add additional notes to deploy this on a live system.
 
 - **Programmer B** - *Provided README Template* - [ Coral ](https://github.com/CoralRGE)
 
-See also le list of [ contributors ](https://github.com/AlinaDorosh-dev/todo-list/graphs/contributors) who participated in this progect.
+See also the list of [ contributors ](https://github.com/AlinaDorosh-dev/todo-list/graphs/contributors) who participated in this progect.
 
