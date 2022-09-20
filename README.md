@@ -23,10 +23,12 @@ A step by steep series that tell you how to get a development environment runnin
 Say what the step will be
 
 | `Give the example` |
+|--|
 
 And repeat
 
 | `until finished` |
+|--|
 
 
 End with an example  of getting some data out of the system or using it for a little demo
